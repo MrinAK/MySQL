@@ -1,2 +1,2 @@
 # MySQL
-Workshop
+Workshops
